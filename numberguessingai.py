@@ -6,7 +6,7 @@
 
 # Purpose #
 # This is an example in "thinking" computers.
-# One AI 1 knows a number between 1-100 provided by the user.
+# One AI 1 knows a number between 1-1000 provided by the user.
 # AI 2 has to guess the number using a primitive form of logic- that being process of elimination.
 # AI 2 asks AI 1 if a randomly guessed number is correct. If correct program exits, else AI 1 will "apologize" to AI 2 and then tell AI 2 if the correct number is higher or lower than the incorrectly guessed number.
 # It works like the computer is having a conversation with itself.
